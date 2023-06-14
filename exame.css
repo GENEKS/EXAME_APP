@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 
 * {
     background-color: #0c042e;
@@ -340,4 +340,184 @@
   background-color: #4d39d6;
   width: 70px;
   height: 70px;
+}
+
+.form-select {
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: #0c042e;
+  color: white;
+  border-radius: 18px;
+  width: 213px;
+  height: 30px;
+}
+
+
+
+
+.icons2 {
+  margin-left: 280px;
+  margin-top: 15px;
+}
+
+
+
+
+.card {
+  background-color: #4d39d6;
+  border-radius: 15px;
+  width: 300px;
+  height: 250px;
+  margin-left: 11%;
+}
+
+
+
+
+#pergunta {
+margin-top: 2px;
+align-items: center;
+background-color: #0c042e;
+border-radius: 18px;
+width: 310px;
+height: 40px;
+border: none;
+margin-left: 20px;
+}
+
+#escolhatipo {
+align-items: center;
+background-color: #0c042e;
+border-radius: 18px;
+width: 310px;
+height: 40px;
+border: none;
+margin-left: 20px;
+margin: 5;
+}
+
+.icon2 {
+  margin-left: 25px;
+  margin-top: 12px;
+}
+
+label {
+  width: 100%;
+  margin-left: 20px;
+  background-color: #0c042e00;
+}
+
+hr {
+  color: white;
+  background-color: white;
+  width: 300px;
+}
+
+
+#image{
+  margin-left: 30px;
+  margin-top: 16px;
+}
+
+
+#termos{
+ width: max-content;
+}
+
+
+.opt {
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+
+#pergunta2 {
+  margin-top: 2px;
+  align-items: center;
+  background-color: #0c042e;
+  border-radius: 18px;
+  width: 250px ;
+  height: 25px ;
+}
+
+
+#mtp {
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: #0c042e;
+  color: white;
+  border-radius: 18px;
+  width: 213px;
+  height: 30px;
+}
+
+
+.line {
+width: 150px;
+margin-left: 15px;
+margin-top: -2px;
+}
+
+
+.line2 {
+  margin-top: -2px;
+}
+
+
+#card2 {
+  background-color: #4d39d6;
+  border-radius: 15px;
+  width: 360px;
+  height: 230px;
+  margin-left: 20px;
+}
+
+.op {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.card {
+  width: 300px;
+  height: 50px;
+  margin-top: 5px;
+}
+
+
+.card {
+  width: 300px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.icones12 {
+  margin-left: 300px;
+  margin-top: 15px;
+}
+
+#infoexame {
+  margin-left: 35px;
+}
+
+#codprova {
+  background-color: #4d39d6;
+  width: 330px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+#codprova h3 {
+  background-color: #0c042e00;
+}
+
+#geralfim {
+  background-color: #4d39d6;
+  width: 330px;
+  border-radius: 15px;
+}
+
+#geralfim h1, h2, h3 {
+  background-color: #0c042e00;
+  margin-left: 10px;
 }
